@@ -119,7 +119,6 @@
 -define:ENABLE_TIMELINE
 -define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
--define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -335,8 +334,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Environments.ref.dll"
@@ -364,9 +361,6 @@
 "Assets/Character/Scripts/InputManager.cs"
 "Assets/Character/Scripts/PlayerLook.cs"
 "Assets/Character/Scripts/PlayerMotor.cs"
-"Assets/Maps/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs"
-"Assets/Maps/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs"
-"Assets/Maps/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs"
 "Assets/Maps/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs"
 "Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs"
