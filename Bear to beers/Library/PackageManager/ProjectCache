@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638537063140816193
-    m_Hash: 3569788889
+      ticks: 638537071747538682
+    m_Hash: 3658218637
   m_LockFileStatus:
     m_FilePath: D:/Bear-to-beers/Bear to beers/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638537063140846199
-    m_Hash: 2391278441
+      ticks: 638537071747538682
+    m_Hash: 2075143599
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
