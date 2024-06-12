@@ -28,7 +28,7 @@ public class PlayerMotor : MonoBehaviour
         // Check if we have landed to reset the jumping state
         if (isGrounded)
         {
-            animator.SetBool("IsJumping", false);
+            animator.SetBool("Jump", false);
         }
     }
 
