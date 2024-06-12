@@ -16,10 +16,8 @@ public class InputManager : MonoBehaviour
     {
         playerInput = new PlayerInput();
         aPied = playerInput.APied;
-
         motor = GetComponent<PlayerMotor>();
         look = GetComponent<PlayerLook>();
-
         aPied.Jump.performed += ctx => motor.Jump();
     }
 
@@ -30,7 +28,7 @@ public class InputManager : MonoBehaviour
         motor.ProcessMove(aPied.Mouvement.ReadValue<Vector2>());
     }
 
-    // Assurez-vous que la méthode est correctement orthographiée
+    // Assurez-vous que la mï¿½thode est correctement orthographiï¿½e
     void LateUpdate()
     {
         look.ProcessLook(aPied.Look.ReadValue<Vector2>());

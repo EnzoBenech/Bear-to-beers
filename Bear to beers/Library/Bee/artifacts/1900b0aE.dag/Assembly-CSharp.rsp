@@ -328,9 +328,15 @@
 -r:"C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+<<<<<<< HEAD
 -r:"D:/unity/Bear-to-beers/Bear to beers/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"D:/unity/Bear-to-beers/Bear to beers/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"D:/unity/Bear-to-beers/Bear to beers/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+=======
+-r:"D:/Jeu/Bear-to-beers/Bear to beers/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"D:/Jeu/Bear-to-beers/Bear to beers/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"D:/Jeu/Bear-to-beers/Bear to beers/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+>>>>>>> 3a5e0786c264cd4d52357b2a0755ddbfa3b17971
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"

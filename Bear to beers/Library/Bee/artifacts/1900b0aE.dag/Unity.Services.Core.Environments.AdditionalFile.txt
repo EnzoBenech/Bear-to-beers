@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 D:\unity\Bear-to-beers\Bear to beers
+=======
+D:\Jeu\Bear-to-beers\Bear to beers
+>>>>>>> 3a5e0786c264cd4d52357b2a0755ddbfa3b17971
