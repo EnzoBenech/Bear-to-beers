@@ -407,6 +407,13 @@
 "Assets/Menu/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/Menu/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/Menu/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Scripts/SpawnEffect.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/Shared/Ramps/Runtime/RampAsset.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/Shared/Scripts/AdjustTimeScale.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/Shared/Scripts/ProximityActivate.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/Shared/Scripts/SimpleCameraController.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/Shared/Scripts/SimpleCharacterMotor.cs"
+"Assets/Taverne/UnityTechnologies/ParticlePack/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
 /deterministic
