@@ -4,12 +4,49 @@ using UnityEngine;
 
 public class PlayerMotor : MonoBehaviour
 {
+    [Header("Keybinds")]
+    public KeyCode sprintKey = KeyCode.LeftShift;
+    public KeyCode slowKey= KeyCode.LeftControl;
     private CharacterController controller;
     private Vector3 playerVelocity;
-    private bool isGrounded;
-    public float speed = 15f;
+    private bool isGrounded,slowing,sprinting;
+    public float moveSpeed = 5f;
+    public float walkSpeed = 5f;
+    public float slowSpeed = 3f;
+
+    public float sprintSpeed = 8f;
+
     public float gravity = -9.8f;
-    public float jumpHeight = 3f;
+    public float jumpHeight = 1f;
+
+    public enum MovementState{
+        slow,
+        walking,
+        sprinting,
+        air
+    }
+    public MovementState state;
+    private void StateHandler(){
+        if(isGrounded)
+        {            
+            if(Input.GetKey(sprintKey)){
+                state=MovementState.sprinting;
+            }
+            else if (Input.GetKey(slowKey)){
+                state=MovementState.slow;
+            }
+            else
+                state=MovementState.walking;
+        }        
+        else
+        state=MovementState.air;
+        if(state==MovementState.slow)
+        moveSpeed=slowSpeed;
+        if(state==MovementState.sprinting)
+        moveSpeed=sprintSpeed;
+        if(state==MovementState.air || state==MovementState.walking)
+        moveSpeed=walkSpeed;
+    }
 
     Animator animator;
 
@@ -29,9 +66,12 @@ public class PlayerMotor : MonoBehaviour
         if (isGrounded)
         {
             animator.SetBool("Jump", false);
-        }
-    }
 
+        }
+        StateHandler();
+    }
+  
+    
     // Receive the inputs for our InputManager.cs
     public void ProcessMove(Vector2 input)
     {
@@ -69,7 +109,7 @@ public class PlayerMotor : MonoBehaviour
             animator.Play("Idle");
         }
 
-        controller.Move(transform.TransformDirection(moveDirection) * speed * Time.deltaTime);
+        controller.Move(transform.TransformDirection(moveDirection) * moveSpeed * Time.deltaTime);
 
         playerVelocity.y += gravity * Time.deltaTime;
         if (isGrounded && playerVelocity.y < 0f)
@@ -86,7 +126,7 @@ public class PlayerMotor : MonoBehaviour
             playerVelocity.y = Mathf.Sqrt(jumpHeight * -3.0f * gravity);
 
             // Set IsJumping parameter to true to trigger jump animation
-            animator.SetBool("IsJumping", true);
+            animator.SetBool("Jump", true);
         }
     }
 
