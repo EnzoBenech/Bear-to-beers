@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\2021.3.13f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Bear-to-beers/Bear to beers
+D:/unity/Bear-to-beers/Bear to beers
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57508
-Successfully changed project path to: D:/Bear-to-beers/Bear to beers
-D:/Bear-to-beers/Bear to beers
+56693
+Successfully changed project path to: D:/unity/Bear-to-beers/Bear to beers
+D:/unity/Bear-to-beers/Bear to beers
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,11 +47,11 @@ D:/Bear-to-beers/Bear to beers
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 113.39 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 108.80 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.13f1 (9e7d58001ecf)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Bear-to-beers/Bear to beers/Assets
+[Subsystems] Discovering subsystems at path D:/unity/Bear-to-beers/Bear to beers/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -63,82 +63,82 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56884
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008456 seconds.
+Registered in 0.006761 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 103.71 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 101.33 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.822 seconds
+- Completed reload, in  0.746 seconds
 Domain Reload Profiling:
-	ReloadAssembly (822ms)
-		BeginReloadAssembly (89ms)
+	ReloadAssembly (747ms)
+		BeginReloadAssembly (78ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (596ms)
-			LoadAssemblies (88ms)
+		EndReloadAssembly (547ms)
+			LoadAssemblies (76ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (134ms)
+			SetupTypeCache (118ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (362ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (338ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (56ms)
+				InitializePlatformSupportModulesInManaged (51ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (104ms)
+				RefreshPlugins (101ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (144ms)
-				ProcessInitializeOnLoadMethodAttributes (57ms)
+				ProcessInitializeOnLoadAttributes (132ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004955 seconds.
+Registered in 0.004908 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\unity\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\unity\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 99.16 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 101.32 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.396 seconds
+- Completed reload, in  1.330 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1397ms)
-		BeginReloadAssembly (124ms)
+	ReloadAssembly (1331ms)
+		BeginReloadAssembly (121ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (1134ms)
-			LoadAssemblies (90ms)
+		EndReloadAssembly (1083ms)
+			LoadAssemblies (88ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (323ms)
+			SetupTypeCache (303ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (65ms)
-			SetupLoadedEditorAssemblies (599ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (582ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
+				InitializePlatformSupportModulesInManaged (16ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (99ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (344ms)
-				ProcessInitializeOnLoadMethodAttributes (31ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (329ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
@@ -146,12 +146,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3707 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (57.5 KB). Loaded Objects now: 4191.
-Memory consumption went from 160.3 MB to 160.2 MB.
-Total: 2.389000 ms (FindLiveObjects: 0.181600 ms CreateObjectMapping: 0.088000 ms MarkObjects: 2.048700 ms  DeleteObjects: 0.069900 ms)
+Unloading 3848 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (1.3 MB). Loaded Objects now: 4322.
+Memory consumption went from 173.1 MB to 171.8 MB.
+Total: 3.643000 ms (FindLiveObjects: 0.446200 ms CreateObjectMapping: 0.126400 ms MarkObjects: 2.808400 ms  DeleteObjects: 0.260700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -165,406 +165,56 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 8619.222700 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Skybox_mat.mat
-  artifactKey: Guid(59573b088aaea0442bf29e0a0e9d1339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Skybox_mat.mat using Guid(59573b088aaea0442bf29e0a0e9d1339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcdf7d8e3dbe92054e7d5a5f20bb5ee') in 0.148743 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004792 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.236 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1237ms)
-		BeginReloadAssembly (149ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (979ms)
-			LoadAssemblies (94ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (320ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (460ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (28ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (73ms)
-				ProcessInitializeOnLoadAttributes (310ms)
-				ProcessInitializeOnLoadMethodAttributes (38ms)
-				AfterProcessingInitializeOnLoad (9ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.10 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3693 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (24.7 KB). Loaded Objects now: 4236.
-Memory consumption went from 163.8 MB to 163.8 MB.
-Total: 3.472100 ms (FindLiveObjects: 0.431200 ms CreateObjectMapping: 0.109600 ms MarkObjects: 2.898600 ms  DeleteObjects: 0.031300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004495 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.246 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1247ms)
-		BeginReloadAssembly (146ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (36ms)
-		EndReloadAssembly (991ms)
-			LoadAssemblies (98ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (320ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (461ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (28ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (76ms)
-				ProcessInitializeOnLoadAttributes (308ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
-				AfterProcessingInitializeOnLoad (10ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.24 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3693 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (24.6 KB). Loaded Objects now: 4239.
-Memory consumption went from 163.8 MB to 163.8 MB.
-Total: 3.622200 ms (FindLiveObjects: 0.429000 ms CreateObjectMapping: 0.140600 ms MarkObjects: 3.020500 ms  DeleteObjects: 0.030400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004650 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.258 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1259ms)
-		BeginReloadAssembly (145ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (1000ms)
-			LoadAssemblies (99ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (326ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (461ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (29ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (75ms)
-				ProcessInitializeOnLoadAttributes (310ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.20 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3693 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (24.6 KB). Loaded Objects now: 4242.
-Memory consumption went from 163.8 MB to 163.8 MB.
-Total: 3.285000 ms (FindLiveObjects: 0.401500 ms CreateObjectMapping: 0.142400 ms MarkObjects: 2.717300 ms  DeleteObjects: 0.022600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 782825.761798 seconds.
+  path: Assets/New Terrain 2.asset
+  artifactKey: Guid(cb4356f07bfdd174f8440f06e5b302ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 2.asset using Guid(cb4356f07bfdd174f8440f06e5b302ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree PT_Caesars_Mushroom_01 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+The tree PT_Fruit_Tree_01_stump must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ -> (artifact id: '298c1c27c94becf3b0c68dc9c90788e4') in 0.112018 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 216.974884 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/FENCE.prefab
-  artifactKey: Guid(f16f39bd1be9d4140ad0cd32366b3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/FENCE.prefab using Guid(f16f39bd1be9d4140ad0cd32366b3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399d3b4e10d4c838e763a4ab21373256') in 0.040822 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.004684 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 4/Mesh/Generic Cliff 4_LOD 1.FBX
-  artifactKey: Guid(e38992d691263fc4ab08f31efe9e0e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 4/Mesh/Generic Cliff 4_LOD 1.FBX using Guid(e38992d691263fc4ab08f31efe9e0e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42e4b39a8a6060eb2d71330fc5ff3ff') in 0.125329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 6/Mesh/MRL_Generic Cliff 6_LOD 0.FBX
-  artifactKey: Guid(04507afa25982984fa397d3d0f89194b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 6/Mesh/MRL_Generic Cliff 6_LOD 0.FBX using Guid(04507afa25982984fa397d3d0f89194b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ec7901fd1499349a70333d21d14835') in 0.128034 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 6/MRL_Generic Cliff 7.prefab
-  artifactKey: Guid(3aca3723459cd6145a26bc09fb0e3dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 6/MRL_Generic Cliff 7.prefab using Guid(3aca3723459cd6145a26bc09fb0e3dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c11816aff962add12434ae26a675ea') in 0.059226 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Low Rock_Medium/MRL_Low Rock_Medium.prefab
-  artifactKey: Guid(b47b1a183b98acc48ad491e2406dc432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Low Rock_Medium/MRL_Low Rock_Medium.prefab using Guid(b47b1a183b98acc48ad491e2406dc432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e59b2d8c786659fba5dcf3449b0d77b') in 0.031423 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_High Cliff_Large/Mesh/MRL_High Cliff_Large_LOD 1.FBX
-  artifactKey: Guid(5ff42629b2e189f459f48e8662576b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_High Cliff_Large/Mesh/MRL_High Cliff_Large_LOD 1.FBX using Guid(5ff42629b2e189f459f48e8662576b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d71a08f32b799a13ad3efa5076fc5a') in 0.057052 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/Mesh/MRL_Rock_Medium 1_LOD 2.FBX
-  artifactKey: Guid(c71ad7efe03a12d498b7c2d57a9eb772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/Mesh/MRL_Rock_Medium 1_LOD 2.FBX using Guid(c71ad7efe03a12d498b7c2d57a9eb772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5ae02aa06a4d01ad8b4366f533f985') in 0.078679 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 5/MRL_Generic Cliff 5.prefab
-  artifactKey: Guid(d6dc584291af5db48985299ab4f18d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 5/MRL_Generic Cliff 5.prefab using Guid(d6dc584291af5db48985299ab4f18d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ce0e0a5e4e6ba23ac2c8e753cc9d30') in 0.049630 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/Mesh/MRL_Rock_Medium 1_LOD 0.FBX
-  artifactKey: Guid(d5872b204503c1f4d91600dc965c59fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/Mesh/MRL_Rock_Medium 1_LOD 0.FBX using Guid(d5872b204503c1f4d91600dc965c59fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9250eec4e9237cdd909e34aa20e05179') in 0.131582 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 3/MRL_Rock_Medium 3.prefab
-  artifactKey: Guid(146fe48d3eac509409646b4c8407ab24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 3/MRL_Rock_Medium 3.prefab using Guid(146fe48d3eac509409646b4c8407ab24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f4b17d8074027c58e1a77cc0f7bcb7') in 0.092297 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Mushrooms/PT_Caesars_Mushroom_01.prefab
-  artifactKey: Guid(5228c984e5be7284d8d83c18096254dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Mushrooms/PT_Caesars_Mushroom_01.prefab using Guid(5228c984e5be7284d8d83c18096254dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffa426a0a75cedfee9cabc8b89bb014') in 0.495445 seconds 
+  Time since last request: 2.594884 seconds.
+  path: Assets/Maps/AQUAS-Lite/Demo/ALiteDemoTerrain.asset
+  artifactKey: Guid(9a203924af969ff4e9e93eb1129c14a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/AQUAS-Lite/Demo/ALiteDemoTerrain.asset using Guid(9a203924af969ff4e9e93eb1129c14a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba0c8648c48cb760288993f9b956418') in 0.232441 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000028 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Mountain Rocks/Mesh/Mountain Rocks 1_LOD 1.FBX
-  artifactKey: Guid(884c89ce2bd5afa4bbd687adc3a9d51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Mountain Rocks/Mesh/Mountain Rocks 1_LOD 1.FBX using Guid(884c89ce2bd5afa4bbd687adc3a9d51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0776366f51c339771c1c2c35ba216f96') in 0.126499 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.005501 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_High Cliff_Large/Mesh/MRL_High Cliff_Large_LOD 2.FBX
-  artifactKey: Guid(0bb7b35ee8a54cf4aa694447b1e6a9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_High Cliff_Large/Mesh/MRL_High Cliff_Large_LOD 2.FBX using Guid(0bb7b35ee8a54cf4aa694447b1e6a9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7b8d1e6308f42c716cf4a398514bb6') in 0.128596 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 1/Mesh/MRL_Generic Cliff 1.fbx
-  artifactKey: Guid(9e38a46dc4d2dba4593e34f57c398ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 1/Mesh/MRL_Generic Cliff 1.fbx using Guid(9e38a46dc4d2dba4593e34f57c398ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fdf4a8b6b173a65653a4c917289c820') in 0.285406 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 6/Mesh/MRL_Generic Cliff 6_LOD 1.FBX
-  artifactKey: Guid(eeca12916f3279b48a3ea8532cb0a392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 6/Mesh/MRL_Generic Cliff 6_LOD 1.FBX using Guid(eeca12916f3279b48a3ea8532cb0a392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e1b6e215d4eccf0b3b946463251927') in 0.078340 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Mushrooms/PT_Caesars_Mushroom_01.fbx
-  artifactKey: Guid(2ec966d90911a454c9760fa28789a4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Mushrooms/PT_Caesars_Mushroom_01.fbx using Guid(2ec966d90911a454c9760fa28789a4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21bec9682cbada0c9423efeacfd146d') in 0.111932 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Mountain Rocks/Mountain Rocks 1.prefab
-  artifactKey: Guid(d971e1180ed0164429565de418045a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Mountain Rocks/Mountain Rocks 1.prefab using Guid(d971e1180ed0164429565de418045a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78765dd2c9330f8d1e0eece3a3d47756') in 0.057765 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/MRL_Rock_Medium 1.prefab
-  artifactKey: Guid(3af00ddf5db22924eb61e74e65f7d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/MRL_Rock_Medium 1.prefab using Guid(3af00ddf5db22924eb61e74e65f7d734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cf62b83d5435220174d3712172303f') in 0.051731 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 5/Mesh/MRL_Generic Cliff 5_LOD 1.FBX
-  artifactKey: Guid(979ec248422ee154c83537b5e593c324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 5/Mesh/MRL_Generic Cliff 5_LOD 1.FBX using Guid(979ec248422ee154c83537b5e593c324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471fd938fb6b5748ba9eb5626be369ef') in 0.041200 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_High Cliff_Large/Mesh/MRL_High Cliff_Large_LOD 0.FBX
-  artifactKey: Guid(82a5a5682fd3a3843b5650d500ab4a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_High Cliff_Large/Mesh/MRL_High Cliff_Large_LOD 0.FBX using Guid(82a5a5682fd3a3843b5650d500ab4a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a54ffbfd2ea7cc1400d8ca3b38778b6') in 0.162757 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 2/Mesh/MRL_Generic Cliff 2.fbx
-  artifactKey: Guid(b15c91f66d38d9b44a8cb25507da4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 2/Mesh/MRL_Generic Cliff 2.fbx using Guid(b15c91f66d38d9b44a8cb25507da4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d4b0f360ec6125cae38bf72595091e') in 0.287220 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 5/Mesh/MRL_Generic Cliff 5_LOD 2.FBX
-  artifactKey: Guid(f12975da44692914bb1c688ddf0bc298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Generic Cliff 5/Mesh/MRL_Generic Cliff 5_LOD 2.FBX using Guid(f12975da44692914bb1c688ddf0bc298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44559fef99545d1b59ac0a6c8ef128e') in 0.116125 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.992467 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Fruit_Tree_01_dead.prefab
-  artifactKey: Guid(c6a512d95615f534cbe31aba1aaa354c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Fruit_Tree_01_dead.prefab using Guid(c6a512d95615f534cbe31aba1aaa354c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9e52192a708e6186e2e1f081eb0817') in 0.024894 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.002682 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_dead_cut.fbx
-  artifactKey: Guid(ddcbcdd7a43212c4d86fe33f77dac074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_dead_cut.fbx using Guid(ddcbcdd7a43212c4d86fe33f77dac074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190d06e0f26cd9f51205f41f1b754990') in 0.082990 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_green.fbx
-  artifactKey: Guid(f222748f1796b2e49a56a2fbf7563247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_green.fbx using Guid(f222748f1796b2e49a56a2fbf7563247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b220d2ea20e7e9b2dda7b75bd19dae5f') in 1.041409 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.014278 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Fruit_Tree_01_stump.prefab
-  artifactKey: Guid(fb070a2d31206d9499ecc8a77be0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Fruit_Tree_01_stump.prefab using Guid(fb070a2d31206d9499ecc8a77be0ebf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd90533ab496168bd1d9523210a81ec') in 0.079403 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_pears.fbx
-  artifactKey: Guid(ab5654911e4a8494190af9551d81ea81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_pears.fbx using Guid(ab5654911e4a8494190af9551d81ea81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25fb739b1cd6379d98d32cf82bac8a6') in 0.248004 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Rocks/PT_Generic_Rock_01.prefab
-  artifactKey: Guid(58cd8dc8c2359174baa15aa31e302c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Rocks/PT_Generic_Rock_01.prefab using Guid(58cd8dc8c2359174baa15aa31e302c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552ccccbd0fcf263a4de48208052bb5e') in 1.413486 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Fence_05 1.fbx
-  artifactKey: Guid(b0a55ec4196e89646866778d4a9990bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Fence_05 1.fbx using Guid(b0a55ec4196e89646866778d4a9990bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732941161da782ef42191c420b230d49') in 0.123622 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Fence_04 1.prefab
-  artifactKey: Guid(492c45c35521e7b4286ae374b96aedde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Fence_04 1.prefab using Guid(492c45c35521e7b4286ae374b96aedde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6055867c9e423df9a87ee808e005476e') in 0.008899 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Fence_02 1.fbx
-  artifactKey: Guid(24da44c442496a0458025bfc14737a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Fence_02 1.fbx using Guid(24da44c442496a0458025bfc14737a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c06bbab0297d0bdf3da09b069679020') in 0.143302 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Gate_01 1.prefab
-  artifactKey: Guid(88d70a52e8e9f5346940dc50f77e7cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Medieval_Village_Gate_01 1.prefab using Guid(88d70a52e8e9f5346940dc50f77e7cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58d96200c1462b6ac49a971b5109ff4') in 0.003815 seconds 
+  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_d3c37e8d-6092-48f4-b81e-93b97326e4d2.asset
+  artifactKey: Guid(dbe8ee5abb1344a4e8a8b80348f13db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_d3c37e8d-6092-48f4-b81e-93b97326e4d2.asset using Guid(dbe8ee5abb1344a4e8a8b80348f13db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5123c96800db2e2d98bbb28cde565c18') in 0.059820 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000039 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Village/Sources/Meshes/Modular/Fence/PT_Modular_Fence_Wood_02.fbx
-  artifactKey: Guid(b67d2b761d3397348831d776dbb33e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Village/Sources/Meshes/Modular/Fence/PT_Modular_Fence_Wood_02.fbx using Guid(b67d2b761d3397348831d776dbb33e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7dfa7a5994f590cb11e914e41a8c859') in 2.389588 seconds 
+  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_88efe361-6f68-4188-bcd0-e9554ca440b9.asset
+  artifactKey: Guid(f2e008cefb3ff674e8c681a3f961fb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_88efe361-6f68-4188-bcd0-e9554ca440b9.asset using Guid(f2e008cefb3ff674e8c681a3f961fb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357e2d3c0cf56d026bd09c7060418a73') in 0.026422 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Village/Sources/Meshes/Modular/Fence/PT_Modular_Fence_Wood_03.fbx
-  artifactKey: Guid(955f7ab7f12013b42b2aa2e494846f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Village/Sources/Meshes/Modular/Fence/PT_Modular_Fence_Wood_03.fbx using Guid(955f7ab7f12013b42b2aa2e494846f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2e772167c7d433ec49202b8d2f29ae') in 0.124248 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_832163fb-b19c-4118-97c2-cf0a3b224fca.asset
+  artifactKey: Guid(b273ce15435a60644bcd2c174476a708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_832163fb-b19c-4118-97c2-cf0a3b224fca.asset using Guid(b273ce15435a60644bcd2c174476a708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bac14665b58c7d02bf9d6bc161e1aec') in 0.027650 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.598744 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Rocks/PT_Ore_Rock_01.fbx
-  artifactKey: Guid(a9129ae83f8faf646961b70c4b103833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Rocks/PT_Ore_Rock_01.fbx using Guid(a9129ae83f8faf646961b70c4b103833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197b8c6dcebb3bd341d6964b18ceb381') in 0.196381 seconds 
+  Time since last request: 0.000031 seconds.
+  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/New Terrain.asset
+  artifactKey: Guid(e0829138c40f356458f259edb063d67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/New Terrain.asset using Guid(e0829138c40f356458f259edb063d67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree PT_Pine_Tree_03_stump must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+The tree PT_Fruit_Tree_01_logs must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ -> (artifact id: '1c0152b9767bd6c9cce18899762cc8ca') in 0.162244 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Pine_Tree_03_dead_cut.prefab
-  artifactKey: Guid(53e1939cdeda3f04caaa240bfd830e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Pine_Tree_03_dead_cut.prefab using Guid(53e1939cdeda3f04caaa240bfd830e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046214e012b743bce0b62ca31ba2b658') in 0.057348 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_c82c1fc5-a7ad-4f88-a7ff-c071a4dae8e5.asset
+  artifactKey: Guid(d9f3564d21751d046890366f3fc55400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain/TerrainData_c82c1fc5-a7ad-4f88-a7ff-c071a4dae8e5.asset using Guid(d9f3564d21751d046890366f3fc55400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a5f1ab6febfbe3642ffd280d9feac7') in 0.049583 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001674 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Flowers/PT_Poppy_02.prefab
-  artifactKey: Guid(f593bc20677ebf14abd27a4853408c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Prefabs/Flowers/PT_Poppy_02.prefab using Guid(f593bc20677ebf14abd27a4853408c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c01c90063afc2fd223dddcb9810c0cb') in 1.353958 seconds 
+  Time since last request: 0.000034 seconds.
+  path: Assets/Maps/Fantasy Skybox FREE/Scenes/SampleTerrain.asset
+  artifactKey: Guid(053158c74390f9e4eb2fbfb90564a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/Fantasy Skybox FREE/Scenes/SampleTerrain.asset using Guid(053158c74390f9e4eb2fbfb90564a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63da5c979b5b430968d180241c9fbec') in 0.130288 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
