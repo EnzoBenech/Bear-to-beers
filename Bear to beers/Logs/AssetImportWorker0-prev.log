@@ -15,11 +15,7 @@ D:/Bear-to-beers/Bear to beers
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<< HEAD
-59800
-=======
-50761
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+58512
 Successfully changed project path to: D:/Bear-to-beers/Bear to beers
 D:/Bear-to-beers/Bear to beers
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -51,11 +47,7 @@ D:/Bear-to-beers/Bear to beers
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 113.65 ms, found 3 plugins.
-=======
-Refreshing native plugins compatible for Editor in 105.14 ms, found 3 plugins.
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+Refreshing native plugins compatible for Editor in 106.61 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.13f1 (9e7d58001ecf)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -71,398 +63,97 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-<<<<<<< HEAD
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56248
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/2021.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< HEAD
-Registered in 0.006950 seconds.
+Registered in 0.007237 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 110.47 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 105.66 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.763 seconds
+- Completed reload, in  0.739 seconds
 Domain Reload Profiling:
-	ReloadAssembly (764ms)
-		BeginReloadAssembly (79ms)
-=======
-Registered in 0.009674 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 102.54 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.751 seconds
-Domain Reload Profiling:
-	ReloadAssembly (752ms)
-		BeginReloadAssembly (88ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+	ReloadAssembly (739ms)
+		BeginReloadAssembly (80ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-<<<<<<< HEAD
-		EndReloadAssembly (560ms)
-			LoadAssemblies (78ms)
+		EndReloadAssembly (538ms)
+			LoadAssemblies (79ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (119ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (348ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (52ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (111ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (132ms)
-				ProcessInitializeOnLoadMethodAttributes (51ms)
-=======
-		EndReloadAssembly (536ms)
-			LoadAssemblies (85ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (115ms)
+			SetupTypeCache (114ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (332ms)
+			SetupLoadedEditorAssemblies (336ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (51ms)
+				InitializePlatformSupportModulesInManaged (50ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (103ms)
+				RefreshPlugins (106ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadAttributes (129ms)
 				ProcessInitializeOnLoadMethodAttributes (49ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-<<<<<<< HEAD
-Registered in 0.005158 seconds.
-=======
-Registered in 0.004404 seconds.
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+Registered in 0.004998 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002253E6F0A20 doesn't match image D:\Bear-to-beers\Bear to beers\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+Symbol file data-000001ECBDBB5590 doesn't match image D:\Bear-to-beers\Bear to beers\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 104.01 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 105.14 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.346 seconds
+- Completed reload, in  1.312 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1347ms)
-		BeginReloadAssembly (104ms)
-=======
-Refreshing native plugins compatible for Editor in 99.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.309 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1310ms)
-		BeginReloadAssembly (117ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+	ReloadAssembly (1313ms)
+		BeginReloadAssembly (113ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-<<<<<<< HEAD
 			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (1115ms)
-			LoadAssemblies (77ms)
+		EndReloadAssembly (1074ms)
+			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (311ms)
+			SetupTypeCache (294ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (66ms)
-			SetupLoadedEditorAssemblies (593ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (580ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
+				InitializePlatformSupportModulesInManaged (15ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (104ms)
+				RefreshPlugins (105ms)
 				BeforeProcessingInitializeOnLoad (96ms)
-				ProcessInitializeOnLoadAttributes (334ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
-				AfterProcessingInitializeOnLoad (7ms)
-=======
-			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (1064ms)
-			LoadAssemblies (88ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (293ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (578ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (99ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (322ms)
+				ProcessInitializeOnLoadAttributes (326ms)
 				ProcessInitializeOnLoadMethodAttributes (29ms)
-				AfterProcessingInitializeOnLoad (11ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+				AfterProcessingInitializeOnLoad (9ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3896 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 40 unused Assets / (1.3 MB). Loaded Objects now: 4371.
-Memory consumption went from 177.1 MB to 175.8 MB.
-Total: 3.736100 ms (FindLiveObjects: 0.453400 ms CreateObjectMapping: 0.145700 ms MarkObjects: 2.847600 ms  DeleteObjects: 0.288000 ms)
-=======
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3896 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 40 unused Assets / (1.3 MB). Loaded Objects now: 4370.
-Memory consumption went from 176.0 MB to 174.8 MB.
-Total: 3.700100 ms (FindLiveObjects: 0.455200 ms CreateObjectMapping: 0.150200 ms MarkObjects: 2.827000 ms  DeleteObjects: 0.266500 ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-<<<<<<< HEAD
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004387 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000022543FA9010 doesn't match image D:\Bear-to-beers\Bear to beers\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-=======
-Received Import Request.
-  Time since last request: 19688.906833 seconds.
-  path: Assets/New Terrain 2.asset
-  artifactKey: Guid(cb4356f07bfdd174f8440f06e5b302ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(cb4356f07bfdd174f8440f06e5b302ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree PT_Caesars_Mushroom_01 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
- -> (artifact id: '8488f6316dd37e4e1da017ee99a338c9') in 0.116982 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 18.322341 seconds.
-  path: Assets/Maps/MapsScene.unity
-  artifactKey: Guid(45ccb614141e64647a3cf8c4e5b156cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/MapsScene.unity using Guid(45ccb614141e64647a3cf8c4e5b156cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61dbb23cb6e7322e125b2dcea18dbdf6') in 0.001847 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004495 seconds.
-Begin MonoManager ReloadAssembly
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.224 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1225ms)
-		BeginReloadAssembly (147ms)
-=======
-Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.307 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1308ms)
-		BeginReloadAssembly (119ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-<<<<<<< HEAD
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (968ms)
-			LoadAssemblies (92ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (319ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (45ms)
-			SetupLoadedEditorAssemblies (446ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (29ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (303ms)
-				ProcessInitializeOnLoadMethodAttributes (36ms)
-				AfterProcessingInitializeOnLoad (7ms)
-=======
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (1058ms)
-			LoadAssemblies (72ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (341ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (498ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (31ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (81ms)
-				ProcessInitializeOnLoadAttributes (333ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.34 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4376.
-Memory consumption went from 171.2 MB to 170.0 MB.
-Total: 4.243800 ms (FindLiveObjects: 0.428700 ms CreateObjectMapping: 0.109400 ms MarkObjects: 3.470400 ms  DeleteObjects: 0.233700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004641 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.366 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1367ms)
-		BeginReloadAssembly (157ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (1077ms)
-			LoadAssemblies (114ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (350ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (53ms)
-			SetupLoadedEditorAssemblies (502ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (34ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (83ms)
-				ProcessInitializeOnLoadAttributes (331ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.36 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4379.
-Memory consumption went from 171.2 MB to 170.0 MB.
-Total: 4.964800 ms (FindLiveObjects: 0.404500 ms CreateObjectMapping: 0.108600 ms MarkObjects: 3.677200 ms  DeleteObjects: 0.773000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004694 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.372 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1373ms)
-		BeginReloadAssembly (147ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (33ms)
-		EndReloadAssembly (1099ms)
-			LoadAssemblies (110ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (352ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (53ms)
-			SetupLoadedEditorAssemblies (516ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (32ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (340ms)
-				ProcessInitializeOnLoadMethodAttributes (41ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4382.
-Memory consumption went from 171.2 MB to 170.0 MB.
-Total: 3.574000 ms (FindLiveObjects: 0.431500 ms CreateObjectMapping: 0.116900 ms MarkObjects: 2.837500 ms  DeleteObjects: 0.186900 ms)
+Unloading 3898 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (1.7 MB). Loaded Objects now: 4372.
+Memory consumption went from 178.2 MB to 176.6 MB.
+Total: 3.776400 ms (FindLiveObjects: 0.444000 ms CreateObjectMapping: 0.153400 ms MarkObjects: 2.794300 ms  DeleteObjects: 0.383700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -476,979 +167,559 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 794.727432 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Terrain_mat.mat
-  artifactKey: Guid(48c26796e9175d14a9b2eccded92bb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Terrain_mat.mat using Guid(48c26796e9175d14a9b2eccded92bb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0d6612121f95946d6f89064edb54f7') in 0.146307 seconds 
+  Time since last request: 803634.735736 seconds.
+  path: Assets/Taverne/LowPolyDungeonsLite
+  artifactKey: Guid(ece81b6f7a8590e469d7e6f9d8f024ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite using Guid(ece81b6f7a8590e469d7e6f9d8f024ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368add9c0ee474c94f4bb79e2a5ce7a4') in 0.011825 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.003968 seconds.
-  path: Assets/Menu/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
-  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Menu/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e28fbcb9a4b9802fbc66424f1e03fb') in 0.028203 seconds 
+  Time since last request: 0.957756 seconds.
+  path: Assets/Taverne/LowPolyDungeonsLite/Materials
+  artifactKey: Guid(1d90635a75c7dd94ca2c5ea4274f466e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite/Materials using Guid(1d90635a75c7dd94ca2c5ea4274f466e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed60c93b484b8fc4ce5fde1ac96761d4') in 0.010864 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Maps/AQUAS-Lite/Models/Materials/WaterSimpleDaylight.mat
-  artifactKey: Guid(cb6f3344386d8b44ea69a4d8c453389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/AQUAS-Lite/Models/Materials/WaterSimpleDaylight.mat using Guid(cb6f3344386d8b44ea69a4d8c453389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc22d91f05a2c45d28e9680f59fb940') in 0.061062 seconds 
+  Time since last request: 1.926637 seconds.
+  path: Assets/Taverne/LowPolyDungeonsLite/Models
+  artifactKey: Guid(0e8997ca604971843a36c13cc2dca678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite/Models using Guid(0e8997ca604971843a36c13cc2dca678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aad6d2aa0f501356e21e980aa1e054e') in 0.008691 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Maps/RPGPP_LT/Materials/rpgpp_lt_sky_a.mat
-  artifactKey: Guid(ff33af19770dd3e489f9c65e388009fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/RPGPP_LT/Materials/rpgpp_lt_sky_a.mat using Guid(ff33af19770dd3e489f9c65e388009fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63797b27933b2dfdfdfdca4b4d354c3d') in 0.099895 seconds 
+  Time since last request: 0.079768 seconds.
+  path: Assets/Taverne/LowPolyDungeonsLite/Models/Rock_01.fbx
+  artifactKey: Guid(35b57be42e294d546baff933e1fef874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite/Models/Rock_01.fbx using Guid(35b57be42e294d546baff933e1fef874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe220bcfcbc6aa7c4fc2228a37612dd') in 0.146479 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Menu/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
-  artifactKey: Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Menu/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset using Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12194f4c39d8f60814b47dd7f5d749c9') in 0.063923 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Menu/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
-  artifactKey: Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Menu/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat using Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5372d0d94316c5d5db36c63cd35a20d0') in 0.245983 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 53.012416 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/Materials/PT_Pine_Tree_Leaves_Mat.mat
-  artifactKey: Guid(af07bc16aab8ff74f9e0d309535239ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/Materials/PT_Pine_Tree_Leaves_Mat.mat using Guid(af07bc16aab8ff74f9e0d309535239ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30f61e921189ad729ead9e0bb1c9d42') in 0.088853 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Generic_Tree_Leaves_mat 1.mat
-  artifactKey: Guid(e58dbc3582eb6ff41b1bbd8a11960175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Generic_Tree_Leaves_mat 1.mat using Guid(e58dbc3582eb6ff41b1bbd8a11960175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd306fffd51b873a9f767870e5ac0dff9') in 1.020425 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.002057 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Generic_Tree_Leaves_mat 2.mat
-  artifactKey: Guid(40e61747f5ab72d409498dd1603b8289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PT_Generic_Tree_Leaves_mat 2.mat using Guid(40e61747f5ab72d409498dd1603b8289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b04fa9486ada0c28d341f9263abebf8') in 0.039677 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.332535 seconds.
-  path: Assets/Maps/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Red.mat
-  artifactKey: Guid(5a26de236ce89e94b963be8fa2b7ade6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Red.mat using Guid(5a26de236ce89e94b963be8fa2b7ade6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c706eccc307602032745c0b13c5164d3') in 0.154775 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Maps/Polytope Studio/Lowpoly_Village/Sources/Materials/PT_Buildings_mat.mat
-  artifactKey: Guid(d55b08511377b684395dab1b9fba6a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maps/Polytope Studio/Lowpoly_Village/Sources/Materials/PT_Buildings_mat.mat using Guid(d55b08511377b684395dab1b9fba6a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7be9a10e289e42b0752d5e40a5f022') in 0.122929 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004655 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.353 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1353ms)
-		BeginReloadAssembly (145ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (36ms)
-		EndReloadAssembly (1092ms)
-			LoadAssemblies (98ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (349ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (518ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (33ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (85ms)
-				ProcessInitializeOnLoadAttributes (345ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.21 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4430.
-Memory consumption went from 176.3 MB to 175.0 MB.
-Total: 3.478500 ms (FindLiveObjects: 0.428400 ms CreateObjectMapping: 0.129800 ms MarkObjects: 2.735800 ms  DeleteObjects: 0.183100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 184.348872 seconds.
-  path: Assets/Menu/MenuBackground 1.jpg
-  artifactKey: Guid(7be5f4584d020dc42856785aa0a71b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Menu/MenuBackground 1.jpg using Guid(7be5f4584d020dc42856785aa0a71b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b8a1ad4c0789aa322e711483ca8ef7') in 0.285143 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004256 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.392 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1393ms)
-		BeginReloadAssembly (169ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (40ms)
-		EndReloadAssembly (1091ms)
-			LoadAssemblies (124ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (339ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (521ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (32ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (345ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
-				AfterProcessingInitializeOnLoad (11ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.32 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4436.
-Memory consumption went from 176.3 MB to 175.1 MB.
-Total: 3.656100 ms (FindLiveObjects: 0.465200 ms CreateObjectMapping: 0.131700 ms MarkObjects: 2.838600 ms  DeleteObjects: 0.219100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004239 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.210 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1211ms)
-		BeginReloadAssembly (159ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (935ms)
-			LoadAssemblies (111ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (304ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (431ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (34ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (74ms)
-				ProcessInitializeOnLoadAttributes (277ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
-				AfterProcessingInitializeOnLoad (11ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4439.
-Memory consumption went from 176.3 MB to 175.1 MB.
-Total: 3.388300 ms (FindLiveObjects: 0.393600 ms CreateObjectMapping: 0.139700 ms MarkObjects: 2.671900 ms  DeleteObjects: 0.181900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004178 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.154 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1154ms)
-		BeginReloadAssembly (154ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (35ms)
-		EndReloadAssembly (886ms)
-			LoadAssemblies (103ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (280ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (43ms)
-			SetupLoadedEditorAssemblies (418ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (26ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (70ms)
-				ProcessInitializeOnLoadAttributes (275ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
-				AfterProcessingInitializeOnLoad (11ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.97 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4442.
-Memory consumption went from 176.3 MB to 175.1 MB.
-Total: 3.424000 ms (FindLiveObjects: 0.385800 ms CreateObjectMapping: 0.141100 ms MarkObjects: 2.712000 ms  DeleteObjects: 0.184000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004530 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.261 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1262ms)
-		BeginReloadAssembly (162ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (980ms)
-			LoadAssemblies (113ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (310ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (461ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (29ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (77ms)
-				ProcessInitializeOnLoadAttributes (304ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.11 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4445.
-Memory consumption went from 176.3 MB to 175.1 MB.
-Total: 3.603400 ms (FindLiveObjects: 0.477400 ms CreateObjectMapping: 0.149700 ms MarkObjects: 2.768700 ms  DeleteObjects: 0.206000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004467 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.261 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1262ms)
-		BeginReloadAssembly (160ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (985ms)
-			LoadAssemblies (112ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (313ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (463ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (29ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (305ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
-				AfterProcessingInitializeOnLoad (12ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 2.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4374.
-Memory consumption went from 171.6 MB to 170.4 MB.
-Total: 3.594200 ms (FindLiveObjects: 0.418800 ms CreateObjectMapping: 0.143300 ms MarkObjects: 2.817900 ms  DeleteObjects: 0.212700 ms)
-=======
-Refreshing native plugins compatible for Editor in 2.28 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4448.
-Memory consumption went from 176.3 MB to 175.1 MB.
-Total: 3.995600 ms (FindLiveObjects: 0.510000 ms CreateObjectMapping: 0.158100 ms MarkObjects: 3.065300 ms  DeleteObjects: 0.260700 ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-<<<<<<< HEAD
-Received Import Request.
-  Time since last request: 801854.161486 seconds.
-  path: Assets/Ada_King/Mug_for_FREE
-  artifactKey: Guid(355996c1c8385a04ab4a09aead72fa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ada_King/Mug_for_FREE using Guid(355996c1c8385a04ab4a09aead72fa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cad2fc2ed3cf5a4e9d9a2111d41707c') in 0.013004 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.944889 seconds.
-  path: Assets/Ada_King/Mug_for_FREE/Prefabs
-  artifactKey: Guid(f1e82d3d0fce95540b55082d710819b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ada_King/Mug_for_FREE/Prefabs using Guid(f1e82d3d0fce95540b55082d710819b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7121a0ed8d2565619d21c12c827d1f05') in 0.006287 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.044698 seconds.
-  path: Assets/Ada_King/Mug_for_FREE/Prefabs/Mug.prefab
-  artifactKey: Guid(1d216e9cb2dc2ca44b1aba0ee8f8c091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ada_King/Mug_for_FREE/Prefabs/Mug.prefab using Guid(1d216e9cb2dc2ca44b1aba0ee8f8c091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd08230aef05b4787d3765c927a58f1') in 0.385456 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 808.957477 seconds.
-  path: Assets/AlchemyLabProps/AlchemyLabProps_Built-in_Linear_2018.4.unitypackage
-  artifactKey: Guid(0467b0c4eb9077344b94d8d7950e1974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AlchemyLabProps/AlchemyLabProps_Built-in_Linear_2018.4.unitypackage using Guid(0467b0c4eb9077344b94d8d7950e1974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a74561b8c0825a1840a8340fb799f9') in 0.012835 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.900016 seconds.
-  path: Assets/AlchemyLabProps/AlchemyLabProps_URP_2019.4.unitypackage
-  artifactKey: Guid(da0a4e5283e10414d9f364bcbd5c45c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AlchemyLabProps/AlchemyLabProps_URP_2019.4.unitypackage using Guid(da0a4e5283e10414d9f364bcbd5c45c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e48bfd4396895df6051051180abdc59') in 0.008372 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.458110 seconds.
-  path: Assets/Multistory Dungeons 2/Scenes
-  artifactKey: Guid(dbc50bc34bb8cf344b1ab2dba1a28cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Scenes using Guid(dbc50bc34bb8cf344b1ab2dba1a28cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ed2caf926dbf9e6985f39a97673049') in 0.005835 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.292508 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs
-  artifactKey: Guid(ce34a5b6c20cd8b4198595eb5a710cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs using Guid(ce34a5b6c20cd8b4198595eb5a710cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e5a266760ec3dec80cc368756bd0d5') in 0.001108 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.229823 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props
-  artifactKey: Guid(f5514ea705d840568e3ae694276919c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props using Guid(f5514ea705d840568e3ae694276919c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1448b817ce8c93a94c98a07cd4cd27') in 0.006190 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.076778 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Barrel_01.prefab
-  artifactKey: Guid(6b5fd7cab1f845b289850db8ab502261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Barrel_01.prefab using Guid(6b5fd7cab1f845b289850db8ab502261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff545072be50315e7073e1d86d57c15') in 0.055410 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.045123 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Barrels_Preset_04.prefab
-  artifactKey: Guid(0e749be40a6b4f60935cf7e490b57d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Barrels_Preset_04.prefab using Guid(0e749be40a6b4f60935cf7e490b57d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595f44bb1e510fa2fd2030338f51e384') in 0.023144 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.019385 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Barrels_Preset_03.prefab
-  artifactKey: Guid(1de99f1c9e134fa8b97f4d761833de57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Barrels_Preset_03.prefab using Guid(1de99f1c9e134fa8b97f4d761833de57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e0fb3d41a92746addba5fc08231fe9') in 0.071882 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Lantern_Handheld_01.prefab
-  artifactKey: Guid(c2b5621c0df447c6832963ba7245f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Lantern_Handheld_01.prefab using Guid(c2b5621c0df447c6832963ba7245f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4eeaffe6ec35ff6ac2ffb9b9d7ca02') in 0.069318 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Jugs_Preset_01.prefab
-  artifactKey: Guid(3c48fffcc1564b28b55bbdf60e5b9a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Jugs_Preset_01.prefab using Guid(3c48fffcc1564b28b55bbdf60e5b9a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7862d81e498e8ecb6e925f5aa36960fe') in 0.035543 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Torch_Handheld_01.prefab
-  artifactKey: Guid(28bbda36f51a405f8e8a661d2246404a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Torch_Handheld_01.prefab using Guid(28bbda36f51a405f8e8a661d2246404a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f969dc5c702e04b821953aaac20c8bb') in 0.044119 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Lantern_01.prefab
-  artifactKey: Guid(17167dc6dc844dad8cef726ac45a016a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Lantern_01.prefab using Guid(17167dc6dc844dad8cef726ac45a016a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f907ded0e52daa0d875d60c90f257351') in 0.050474 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Candlestick_Floor_01_Lit.prefab
-  artifactKey: Guid(aa299f61244143f084a68a37435cb7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Candlestick_Floor_01_Lit.prefab using Guid(aa299f61244143f084a68a37435cb7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ef744f830a86ab9b0b4785ff66d751') in 0.054445 seconds 
+  Time since last request: 0.000026 seconds.
+  path: Assets/Taverne/LowPolyDungeonsLite/Models/Wood_02.fbx
+  artifactKey: Guid(e8f98bd8e8aa901469815fc68e3094aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite/Models/Wood_02.fbx using Guid(e8f98bd8e8aa901469815fc68e3094aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6821fa0a2dc7146da3fcc4f2d4de917') in 0.057221 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000033 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Treasure_Chest_Base_02.prefab
-  artifactKey: Guid(f145d8a31a7a4126899cac55d3396d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Treasure_Chest_Base_02.prefab using Guid(f145d8a31a7a4126899cac55d3396d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368c833fa71e7a5ce212392e938d5d53') in 0.061525 seconds 
+  path: Assets/Taverne/LowPolyDungeonsLite/Models/WallDecor_05.fbx
+  artifactKey: Guid(cde161403e4daa841897213ea28384a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite/Models/WallDecor_05.fbx using Guid(cde161403e4daa841897213ea28384a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5170464a1d29aaafdde7c4dc794851d1') in 0.056489 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Jugs_Preset_03.prefab
-  artifactKey: Guid(46bf1c52d3624c7f815b3faaf29b4d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Jugs_Preset_03.prefab using Guid(46bf1c52d3624c7f815b3faaf29b4d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be534ff52fce9c149f2ae3d42074572') in 0.071572 seconds 
+  Time since last request: 1.561346 seconds.
+  path: Assets/Taverne/LowPolyDungeonsLite/Prefabs
+  artifactKey: Guid(0ac0e68d7d9b9394aa72444e7ef8d399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taverne/LowPolyDungeonsLite/Prefabs using Guid(0ac0e68d7d9b9394aa72444e7ef8d399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fee8f07ad27a2c240aaf0b75ccccdd1') in 0.007575 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Candle_02.prefab
-  artifactKey: Guid(374b0997db81407ca6f741e55d078c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Candle_02.prefab using Guid(374b0997db81407ca6f741e55d078c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89739b65130ca5b44b158564d9da1c1') in 0.083478 seconds 
+  Time since last request: 45.299725 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_Bottle#2.prefab
+  artifactKey: Guid(26b95fa21dfcfeb4fb4aea448e8d05c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_Bottle#2.prefab using Guid(26b95fa21dfcfeb4fb4aea448e8d05c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f18e6b290fd4a8ac880eea9cec7642e') in 0.039130 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Torch_01.prefab
-  artifactKey: Guid(c35b4f7b6db0440a8b9972af1d27adea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Torch_01.prefab using Guid(c35b4f7b6db0440a8b9972af1d27adea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee1bac95f970298b9bee4bbbe10b308') in 0.078100 seconds 
+  Time since last request: 0.014012 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_Bowl#2.prefab
+  artifactKey: Guid(537fca49233300e4c9196e5a7fab121b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_Bowl#2.prefab using Guid(537fca49233300e4c9196e5a7fab121b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0a5e29b4fd8c3d649eed84df8afd11') in 0.038661 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Barrels_Preset_01.prefab
-  artifactKey: Guid(15fd5903be7b4cd68505a9c33fb0cd77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Barrels_Preset_01.prefab using Guid(15fd5903be7b4cd68505a9c33fb0cd77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63066c863a3db049299e9b6cc8323227') in 0.072030 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000136 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Candle_03.prefab
-  artifactKey: Guid(bd3e98b7af3649949b2bbab0ea7fe8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Candle_03.prefab using Guid(bd3e98b7af3649949b2bbab0ea7fe8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a41e5cccfbf9f6c6e8b895f1f5d1b3e') in 0.091758 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Candles_02.prefab
-  artifactKey: Guid(502607ad5cbe456193f957ac30014e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Candles_02.prefab using Guid(502607ad5cbe456193f957ac30014e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f28176d59e98f92a7741bdd4f6bb1761') in 0.038158 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Lamp_01.prefab
-  artifactKey: Guid(dfbde792590a4220a339d2b776e63f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Lamp_01.prefab using Guid(dfbde792590a4220a339d2b776e63f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153c3c9b483cc47910b0f40987f150a0') in 0.040579 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.742218 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture
-  artifactKey: Guid(8b89d50e424940a4b7822bfd95705d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture using Guid(8b89d50e424940a4b7822bfd95705d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c21f52828abc5ae8ee61428762b8792') in 0.006102 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.080652 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Bench_01.prefab
-  artifactKey: Guid(37c3c9bac33a4b9dafcace5d47746041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Bench_01.prefab using Guid(37c3c9bac33a4b9dafcace5d47746041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3367683b446d3299a0c2a41ab432d7eb') in 0.111578 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_02.prefab
-  artifactKey: Guid(1190fd8687304efb8e8af180203c5fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_02.prefab using Guid(1190fd8687304efb8e8af180203c5fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98ae0ebdbb2eb9d36f7681541e0a9289') in 0.085835 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Preset_03.prefab
-  artifactKey: Guid(2c3e3f4479824bceb3d0cece5ec5697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Preset_03.prefab using Guid(2c3e3f4479824bceb3d0cece5ec5697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ef30061d65b7b9b1aa0c0908956965') in 0.117253 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Wooden_02.prefab
-  artifactKey: Guid(d608e743b49844edae196bc799723896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Wooden_02.prefab using Guid(d608e743b49844edae196bc799723896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259fb0d537c03f75a401a2c36785424f') in 0.126925 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Rostrum_Preset_01.prefab
-  artifactKey: Guid(663177e7db344bd692306990641ca5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Rostrum_Preset_01.prefab using Guid(663177e7db344bd692306990641ca5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9df940169ec52982af7e73153a4f43d') in 0.121385 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_04.prefab
-  artifactKey: Guid(10fa83c6e3d4469d8bd4bff9470da469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_04.prefab using Guid(10fa83c6e3d4469d8bd4bff9470da469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b909ba5098881f078f505c4cb1fa50a') in 0.103745 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_01.prefab
-  artifactKey: Guid(064ab94ee3ce4c9892a2682dc57ce18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_01.prefab using Guid(064ab94ee3ce4c9892a2682dc57ce18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3dc72fd607d86a3593bf063f813e45') in 0.118882 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_06.prefab
-  artifactKey: Guid(1fba721680014217bdaceed4f6fe154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_06.prefab using Guid(1fba721680014217bdaceed4f6fe154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bad050fb67cf9db200b80367226bbf1') in 0.120419 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Big_Preset_02.prefab
-  artifactKey: Guid(0648a8654321442ba88d4834921d373a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Big_Preset_02.prefab using Guid(0648a8654321442ba88d4834921d373a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86379e9075ba8ba0ce78bc8234a4308c') in 0.116101 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Chair_01.prefab
-  artifactKey: Guid(1efd93450a4746d1bf94bff601cf447c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Chair_01.prefab using Guid(1efd93450a4746d1bf94bff601cf447c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83aab865e8448dc8133b746656ba177c') in 0.117984 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Preset_04.prefab
-  artifactKey: Guid(0f9a358951884939a03ac8f1035237f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Preset_04.prefab using Guid(0f9a358951884939a03ac8f1035237f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17041f8e5ac1898275a266c07ccaa25b') in 0.102659 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_03.prefab
-  artifactKey: Guid(dbd2951b893941f1821fa65212a274cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_03.prefab using Guid(dbd2951b893941f1821fa65212a274cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80bfbaa734ae2de4187178687da2da4') in 0.081536 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_01.prefab
-  artifactKey: Guid(1c622154ca804fc7884d0df9b51f903d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_01.prefab using Guid(1c622154ca804fc7884d0df9b51f903d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bb670cfef9299a3e14d4ca778c8939') in 0.053745 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Ladder_01.prefab
-  artifactKey: Guid(871313d097424a8da9d90dc4db5a48ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Ladder_01.prefab using Guid(871313d097424a8da9d90dc4db5a48ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4628180b2f1a26df60b03d7fbfb00b') in 0.075944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_03.prefab
-  artifactKey: Guid(065f770c0c58456e929d9ea17079d78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Table_Preset_03.prefab using Guid(065f770c0c58456e929d9ea17079d78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b065d4d8eb452534ab1be0e4c3a828') in 0.076134 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Preset_07.prefab
-  artifactKey: Guid(05321276d9d746b7b382f6d02305b9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Cupboard_Preset_07.prefab using Guid(05321276d9d746b7b382f6d02305b9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a91c4a00046cc87805988ad5b93fef1') in 0.085112 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Shelf_Preset_04.prefab
-  artifactKey: Guid(d7a5e14202ef45918353047c81112c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Furniture/Shelf_Preset_04.prefab using Guid(d7a5e14202ef45918353047c81112c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f925846bd61d3306ada2935972d3d3c') in 0.107555 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.667516 seconds.
-  path: Assets/Multistory Dungeons 2/Textures/Atlas_Furniture_01_Specular.psd
-  artifactKey: Guid(a09fb697519a4141b657b2a14a901ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Textures/Atlas_Furniture_01_Specular.psd using Guid(a09fb697519a4141b657b2a14a901ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbb920e1fffd7e01a44254b3b05c27b') in 0.062120 seconds 
+  Time since last request: 0.022610 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_WoodenTable#1.prefab
+  artifactKey: Guid(dc9b885602f11ae4b81c7749b464e6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_WoodenTable#1.prefab using Guid(dc9b885602f11ae4b81c7749b464e6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a533b99254c777d41472fdaca8b9ef59') in 0.037653 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000025 seconds.
-  path: Assets/Multistory Dungeons 2/Textures/Atlas_Props_02.psd
-  artifactKey: Guid(96674c4c0c3248708166abf9d9fd90a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Textures/Atlas_Props_02.psd using Guid(96674c4c0c3248708166abf9d9fd90a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d74139693b3cb3cbed2e73f900bac2c') in 0.065807 seconds 
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_Desk#2.prefab
+  artifactKey: Guid(ac35cb5061595e34a86fde87ec12288b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_Desk#2.prefab using Guid(ac35cb5061595e34a86fde87ec12288b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0ee2f6715f2411a3324989b65f7513') in 0.053771 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.949286 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Barrels_Preset_01.fbx
-  artifactKey: Guid(905e1e29b45f41958574ee26a147e611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Barrels_Preset_01.fbx using Guid(905e1e29b45f41958574ee26a147e611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc771f2b40f529067837c51cfc3af1d') in 0.168947 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Beed_1.prefab
+  artifactKey: Guid(865ce0ffbc6ec67439fa4bc74c14bd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Beed_1.prefab using Guid(865ce0ffbc6ec67439fa4bc74c14bd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2a5fc036975f079a48cc6a197d3690') in 0.027502 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_01.fbx
-  artifactKey: Guid(9fd8971400db401382d23c99bfc79860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_01.fbx using Guid(9fd8971400db401382d23c99bfc79860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14006e659ebfa7f54d7137b035c9a7bd') in 0.083060 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Barrel_Whole.prefab
+  artifactKey: Guid(3ddfb275a6af7b54aa0decd735ed4b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Barrel_Whole.prefab using Guid(3ddfb275a6af7b54aa0decd735ed4b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92475e88802e4bf80673d28157901ad') in 0.035949 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Books_Preset_03.fbx
-  artifactKey: Guid(aacf8d420c2b41faad65a3659df7073b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Books_Preset_03.fbx using Guid(aacf8d420c2b41faad65a3659df7073b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8769fca94dbb6f111044f0023a138f47') in 0.074371 seconds 
+  Time since last request: 0.000305 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Decorations_WallBanner_1.prefab
+  artifactKey: Guid(cb43e42ad7ce04a4c9f29223eb3e62f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Decorations_WallBanner_1.prefab using Guid(cb43e42ad7ce04a4c9f29223eb3e62f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a9e5889166b482dc74e89578994fe9') in 0.045761 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_02.fbx
-  artifactKey: Guid(5016bbbd2b6340c894f132e2c6fa37a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_02.fbx using Guid(5016bbbd2b6340c894f132e2c6fa37a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82176ebc9b0541f3ca5c0b70b8c5bdd0') in 0.116241 seconds 
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Barrel_MK2.prefab
+  artifactKey: Guid(3df9b2ddf5f6382488f21cad82623b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Barrel_MK2.prefab using Guid(3df9b2ddf5f6382488f21cad82623b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bf94630030645fb53a86223329bbc8') in 0.039041 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Jugs_Preset_01.fbx
-  artifactKey: Guid(16f03af913724dfd80186c5d0ffa31e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Jugs_Preset_01.fbx using Guid(16f03af913724dfd80186c5d0ffa31e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83e414cd1da636adca9e3de77bd2609') in 0.208715 seconds 
+  Time since last request: 0.000363 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Decorations_SpiderWebb_2.prefab
+  artifactKey: Guid(4ae94bf72660157478f13b20c3227f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Decorations_SpiderWebb_2.prefab using Guid(4ae94bf72660157478f13b20c3227f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ddc51cc69c018591ba9d630abaf6695') in 0.038688 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Chair_01.fbx
-  artifactKey: Guid(970176150adc40e29c812bb7823d307a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Chair_01.fbx using Guid(970176150adc40e29c812bb7823d307a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1113ff648e414e676e063e1018857e28') in 0.115683 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_08.fbx
-  artifactKey: Guid(f610020ead1244d3926ee5b5c336ece1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_08.fbx using Guid(f610020ead1244d3926ee5b5c336ece1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77b3ea6d1e4a1f323ed9ac1f728fdf8') in 0.068609 seconds 
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/03_Blacksmith_01_Hammer#1.prefab
+  artifactKey: Guid(b14c26b3ab0a0a54a98340c8d9fb1fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/03_Blacksmith_01_Hammer#1.prefab using Guid(b14c26b3ab0a0a54a98340c8d9fb1fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e383d09d5a2e5eee620c44e7d5ff2d6') in 0.047275 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000023 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_07.fbx
-  artifactKey: Guid(4e4f8b661fd64f5c87e5dc36c28d486a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_07.fbx using Guid(4e4f8b661fd64f5c87e5dc36c28d486a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a28589d841de7e8bba68c6d568cd4a3') in 0.139053 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Big_Preset_02.fbx
-  artifactKey: Guid(5b4a8c6b57f549888a3369b0fefb9a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Big_Preset_02.fbx using Guid(5b4a8c6b57f549888a3369b0fefb9a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e45636ec2a83959e3663ccf1c68c91') in 0.112258 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_02.fbx
-  artifactKey: Guid(cd5f096c22fb4f3297f3699c9cf5cdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Preset_02.fbx using Guid(cd5f096c22fb4f3297f3699c9cf5cdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6324ca221d6215ee5b0911fb8abe35f7') in 0.090929 seconds 
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_WoodenChear#2.prefab
+  artifactKey: Guid(ebc4a50eb5c187947817efb7f3d72924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_DiningHall_01_WoodenChear#2.prefab using Guid(ebc4a50eb5c187947817efb7f3d72924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dc158e1ef77e82f89716a612396ad0') in 0.028621 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000026 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Book_03.fbx
-  artifactKey: Guid(394a144e9fdd4aa6a9fe7b3991d9a43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Book_03.fbx using Guid(394a144e9fdd4aa6a9fe7b3991d9a43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c83c57866d71d6374bf921cc1b964c4') in 0.033437 seconds 
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/03_Blacksmith_01_Hammer#2.prefab
+  artifactKey: Guid(d71513e356a6264478e901eb30867760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/03_Blacksmith_01_Hammer#2.prefab using Guid(d71513e356a6264478e901eb30867760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599f4a2f6821d3c4ef1191c316186d0c') in 0.041188 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Inkpot_01.fbx
-  artifactKey: Guid(16670cd9b8f94ddead9f0c556afdd169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Inkpot_01.fbx using Guid(16670cd9b8f94ddead9f0c556afdd169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8679b954e2fe9e88d906e6bada5497d2') in 0.102384 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Big_Preset_03.fbx
-  artifactKey: Guid(40b71007ea6c485cb23cc805b8cf4d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Cupboard_Big_Preset_03.fbx using Guid(40b71007ea6c485cb23cc805b8cf4d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c276c60db7dc101da95a00daa3a8fe') in 0.130381 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Drawer_Preset_02.fbx
-  artifactKey: Guid(478a7af3419844da98433fce6ce8f684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Drawer_Preset_02.fbx using Guid(478a7af3419844da98433fce6ce8f684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3710ee688d48b0e1c7693e2cc70713') in 0.117637 seconds 
+  Time since last request: 0.000042 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_PracticeTarget.prefab
+  artifactKey: Guid(31d2c60b47169154b9e7a30684368870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_PracticeTarget.prefab using Guid(31d2c60b47169154b9e7a30684368870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65993d2d4651ce21fe713ca427ff459a') in 0.053506 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000032 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Jug_02.fbx
-  artifactKey: Guid(7c9f97b48ebe402f8604780c77cbdf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Jug_02.fbx using Guid(7c9f97b48ebe402f8604780c77cbdf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e72fe5b8a70cc06a7b74b3162b6f29') in 0.070296 seconds 
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Key_Yellow.prefab
+  artifactKey: Guid(8e6bcd71fb429ed4cab90a908277c517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Key_Yellow.prefab using Guid(8e6bcd71fb429ed4cab90a908277c517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc1d16f3571b4c556436a37e1c8df8a') in 0.039198 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.210708 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Paper_05.fbx
-  artifactKey: Guid(64acf2bb8cf143aeb1dee7245e05a350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Paper_05.fbx using Guid(64acf2bb8cf143aeb1dee7245e05a350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190dcfc09b6adea2a9410efc9b4e00a4') in 0.059528 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Potion_Red_01.fbx
-  artifactKey: Guid(72e4a743464c4b26857b460ca6ade400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Potion_Red_01.fbx using Guid(72e4a743464c4b26857b460ca6ade400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42de5dd203dfb01cb4b4bcdc3d75a0a') in 0.152933 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Torch_01.fbx
-  artifactKey: Guid(a54981d7cf674ce3b01c077bb15df713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Torch_01.fbx using Guid(a54981d7cf674ce3b01c077bb15df713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d26c3fb98b0a609a31d5c5b0984238') in 0.070444 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Shelf_Preset_04.fbx
-  artifactKey: Guid(09c383219ee44f238768d63ec2b2b65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Shelf_Preset_04.fbx using Guid(09c383219ee44f238768d63ec2b2b65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd74f4e979dac72226c558671e06b15') in 0.121255 seconds 
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Beed_2.prefab
+  artifactKey: Guid(4c99ccd66904b4f41b452d4403e13bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Beed_2.prefab using Guid(4c99ccd66904b4f41b452d4403e13bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7546eca8869ad1714f8fba40e928da6b') in 0.031872 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000023 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Treasure_Chest_lid_01.fbx
-  artifactKey: Guid(cf6b3584a9ef4f97a612bc162be903cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Treasure_Chest_lid_01.fbx using Guid(cf6b3584a9ef4f97a612bc162be903cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180993cd612db7a290acffa2621a0d53') in 0.133880 seconds 
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/02_Kitchen_01_CuttingBoard.prefab
+  artifactKey: Guid(971e70123fa0f8540bb03284db541417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/02_Kitchen_01_CuttingBoard.prefab using Guid(971e70123fa0f8540bb03284db541417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f754720259aaf20e826cdc6381bd7c') in 0.052308 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Table_Preset_04.fbx
-  artifactKey: Guid(a3ef493fc8ac45d78a30cdf937a54c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Table_Preset_04.fbx using Guid(a3ef493fc8ac45d78a30cdf937a54c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '981215435acc9b4203eb1be809c629fb') in 0.099608 seconds 
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Matrace_ForBeed_1.prefab
+  artifactKey: Guid(1dba64d63b3ff9545af2152cc3320b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Matrace_ForBeed_1.prefab using Guid(1dba64d63b3ff9545af2152cc3320b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77593254d0753db1c3dcc8e9145c0b37') in 0.042701 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Multistory Dungeons 2/Meshes/SRC_Props/Rostrum_01.fbx
-  artifactKey: Guid(28b2ae85a9e8432faff2037734a7750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Meshes/SRC_Props/Rostrum_01.fbx using Guid(28b2ae85a9e8432faff2037734a7750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c789691f59bc5c366c36181665621c') in 0.077388 seconds 
+  Time since last request: 0.004433 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/02_Kitchen_01_CookingPot#3.prefab
+  artifactKey: Guid(2aa6286db4bf6c24ba9c943b1b942f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/02_Kitchen_01_CookingPot#3.prefab using Guid(2aa6286db4bf6c24ba9c943b1b942f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70667be35a4485ed18f09e1dc43c6e26') in 0.030068 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.651517 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Book_03.prefab
-  artifactKey: Guid(a693f8c2201b4b60b2569dad07d1945f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Book_03.prefab using Guid(a693f8c2201b4b60b2569dad07d1945f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c2ef5e4e22af452f4016bd8c7cd046') in 0.022982 seconds 
+  Time since last request: 0.000025 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Decorations_WallBanner_4.prefab
+  artifactKey: Guid(2448b7caaace7e64a8790c8d406f1fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Decorations_WallBanner_4.prefab using Guid(2448b7caaace7e64a8790c8d406f1fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a938c772755b3d24eb13b06f88d6e0') in 0.056399 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.003573 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Bottle_02.prefab
-  artifactKey: Guid(36ac7bb4677d46aa8368525fc9a82bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Bottle_02.prefab using Guid(36ac7bb4677d46aa8368525fc9a82bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b76cf2827ec689436d9fb3c8a8066c') in 0.050557 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Flask_02.prefab
-  artifactKey: Guid(a9c924e80c494a0187ef4b735a3c46b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Flask_02.prefab using Guid(a9c924e80c494a0187ef4b735a3c46b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1d42daf65e588b35a8b6773ad948d6') in 0.055480 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.011376 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Scale_01.prefab
-  artifactKey: Guid(710caedd8bff451d82b2ab398533e070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Scale_01.prefab using Guid(710caedd8bff451d82b2ab398533e070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce96ac294a6312c5b9252466e99b91a9') in 0.044978 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001049 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Potion_03.prefab
-  artifactKey: Guid(702c6bea8ac34b64bc7b7584ede296ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Potion_03.prefab using Guid(702c6bea8ac34b64bc7b7584ede296ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7243bdc3912b49862161ec8e798650d0') in 0.051188 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Cup_01.prefab
-  artifactKey: Guid(11974f92aea44b97a97ff84cc6182945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Cup_01.prefab using Guid(11974f92aea44b97a97ff84cc6182945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6e6f71bbf39f3fd388902110e84fef') in 0.054205 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Stand_02.prefab
-  artifactKey: Guid(56d044af64e145bb9ab7eb6ed864ba74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Stand_02.prefab using Guid(56d044af64e145bb9ab7eb6ed864ba74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c2906b3a0999d9aab61dbfe96f560a') in 0.021044 seconds 
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Key_Red.prefab
+  artifactKey: Guid(fb7a8fe8399823041b978461ce797a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Key_Red.prefab using Guid(fb7a8fe8399823041b978461ce797a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f3cf2d60a679ee6ce4bef99d707b86') in 0.034564 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000027 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Books_Preset_05.prefab
-  artifactKey: Guid(cfbebb7126464c7b9b9300fb0b51dfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Books_Preset_05.prefab using Guid(cfbebb7126464c7b9b9300fb0b51dfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f317e4d418760b56b50f9113c5c6af6') in 0.049296 seconds 
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_BookSmall_Green.prefab
+  artifactKey: Guid(8644e36a4e3c34f4d9fcc44f7fcd7f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_BookSmall_Green.prefab using Guid(8644e36a4e3c34f4d9fcc44f7fcd7f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44ec769fa9ca005258da21cddfa9867') in 0.036847 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Paper_03.prefab
-  artifactKey: Guid(ec9920e44a9241b0bed559c0b9d90d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Multistory Dungeons 2/Prefabs/Props/Books And Alchemy/Paper_03.prefab using Guid(ec9920e44a9241b0bed559c0b9d90d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44c2e4de8594f292087bc49ed399951') in 0.038119 seconds 
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Torch_1.prefab
+  artifactKey: Guid(6efb1860217d72445b1b6d7cfb4f8979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/97_Othert_Torch_1.prefab using Guid(6efb1860217d72445b1b6d7cfb4f8979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519e464129d4c8243177bea182ff3afb') in 0.040755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/05_Vault_01_Chest_Bottom#1.prefab
+  artifactKey: Guid(ceddce4fa21192b4894d7164957a9fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/05_Vault_01_Chest_Bottom#1.prefab using Guid(ceddce4fa21192b4894d7164957a9fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd6338d54b8c40a6f3fb0a98aec82d5') in 0.040266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/03_Blacksmith_01_Blower.prefab
+  artifactKey: Guid(a39dd3b8bbc8afd46aba5478c68d400c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/03_Blacksmith_01_Blower.prefab using Guid(a39dd3b8bbc8afd46aba5478c68d400c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f23b3be07a602258aa104d6b374673') in 0.045640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_BigBook#1.prefab
+  artifactKey: Guid(0e192ae82376e1f40a809e236fd8f192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_BigBook#1.prefab using Guid(0e192ae82376e1f40a809e236fd8f192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb8efb08ca86e62625604dd5947e973') in 0.036567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_BookShelve_1.prefab
+  artifactKey: Guid(34883640f89bba84885fe5885c21fa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_BookShelve_1.prefab using Guid(34883640f89bba84885fe5885c21fa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41970e5b5f88382a67e123517de7a4b1') in 0.041671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/05_Vault_01_Emerald#1.prefab
+  artifactKey: Guid(dd3172e1949ca1b4197adf1c5b340212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/05_Vault_01_Emerald#1.prefab using Guid(dd3172e1949ca1b4197adf1c5b340212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2157cd46bc388e435cfce0c6fac79399') in 0.045643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_InkWell#1.prefab
+  artifactKey: Guid(2f570eda51c25004f9aa924d657af75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/01_Library_01_InkWell#1.prefab using Guid(2f570eda51c25004f9aa924d657af75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b006fa72fcb8b30380e1349370ef9dc6') in 0.042756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Beed_3.prefab
+  artifactKey: Guid(4242a69f308b1484783adb21b0eecad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/04_Bedroom_01_Beed_3.prefab using Guid(4242a69f308b1484783adb21b0eecad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d654a169f5ced7b2f37951627c3632b') in 0.039530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051187 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_Column_Rocky_1.prefab
+  artifactKey: Guid(f58268a6683cb49408153b9982f987ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_Column_Rocky_1.prefab using Guid(f58268a6683cb49408153b9982f987ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8769f73896a2d543c6ffb1311a3298') in 0.048001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_Wall_01.prefab
+  artifactKey: Guid(9bbb5245987b43043972821dcbdd765b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_Wall_01.prefab using Guid(9bbb5245987b43043972821dcbdd765b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b895f542510ba3e3dc9457a820b166') in 0.038171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_Floor_02.prefab
+  artifactKey: Guid(c894645c79a0f764ea20a47ea34a8ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_Floor_02.prefab using Guid(c894645c79a0f764ea20a47ea34a8ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07df4914d8d064652263d157a10619fd') in 0.056884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_DoorsFake#1.prefab
+  artifactKey: Guid(3f502d62a2f0dba418858bf9e609c6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Prefabs/99_Enviroment_DoorsFake#1.prefab using Guid(3f502d62a2f0dba418858bf9e609c6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03daa4206852bccf7d4841c1b5924f9b') in 0.043422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.704562 seconds.
+  path: Assets/Maps/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_02.prefab
+  artifactKey: Guid(186ecc7a1f977cc4fab5658c00fa3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_02.prefab using Guid(186ecc7a1f977cc4fab5658c00fa3c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da20d685f771e2cd91bbc22c47168fb0') in 0.033709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Maps/RPGPP_LT/Prefabs/Nature/Vegetation/Plants/rpgpp_lt_plant_01.prefab
+  artifactKey: Guid(5286e490afadac545ae3a1595b1e96e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/RPGPP_LT/Prefabs/Nature/Vegetation/Plants/rpgpp_lt_plant_01.prefab using Guid(5286e490afadac545ae3a1595b1e96e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef347a0c143d0110cd24c5fe12f44ad') in 0.015087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001811 seconds.
+  path: Assets/Maps/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_01.prefab
+  artifactKey: Guid(ae9772ea62bbc724eb9b8ef81109f733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maps/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_01.prefab using Guid(ae9772ea62bbc724eb9b8ef81109f733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8036e06efe717ec39873e93acb2d8e31') in 0.029354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_campfire_004_AmbienceFX.prefab
+  artifactKey: Guid(194b466341f67e04596e227afc37c90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_campfire_004_AmbienceFX.prefab using Guid(194b466341f67e04596e227afc37c90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '2bc5360e4c8444de7fa8037284ebd771') in 0.077533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002387 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_planks_001_AmbienceFX.prefab
+  artifactKey: Guid(25c73e10777eb9b4d9a653b3c61d4f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_planks_001_AmbienceFX.prefab using Guid(25c73e10777eb9b4d9a653b3c61d4f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '5f627d4a8eb25724f5a07b3d4f98ac0c') in 0.026575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_irontorch_003_AmbienceFX.prefab
+  artifactKey: Guid(2fa6be46c81c7fe459c9b54658d64e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_irontorch_003_AmbienceFX.prefab using Guid(2fa6be46c81c7fe459c9b54658d64e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '35bc5ec6d5d089394354da6b5d6bae87') in 0.048884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_irontorch_002_AmbienceFX.prefab
+  artifactKey: Guid(2071281887c6f514388923e0ee4bae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_irontorch_002_AmbienceFX.prefab using Guid(2071281887c6f514388923e0ee4bae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '5b72278059fdc8e538357b7950f49eec') in 0.047934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_campfire_004.prefab
+  artifactKey: Guid(ca4e22f1f2a41604d8887fb4f60ce127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_campfire_004.prefab using Guid(ca4e22f1f2a41604d8887fb4f60ce127) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '08abcfd9ed207b164d07c4f39bf12640') in 0.058059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_campfire_002.prefab
+  artifactKey: Guid(82561250608dfd54d834633a2ef56879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_campfire_002.prefab using Guid(82561250608dfd54d834633a2ef56879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: 'f8bbe5d3a315421d1b22d92136befab4') in 0.068194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_irontorch_003.prefab
+  artifactKey: Guid(34c6fe33973a93b44a7287c4b419bb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_irontorch_003.prefab using Guid(34c6fe33973a93b44a7287c4b419bb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '313e2a752686cd38ad0213cf8cdb200b') in 0.032398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.172343 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_planks_002_AmbienceFX.prefab
+  artifactKey: Guid(2c0a332f670b7bb49959bfe016210ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_planks_002_AmbienceFX.prefab using Guid(2c0a332f670b7bb49959bfe016210ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '0d4dbc6f0eb08e6988bf2bdc7c0fd43a') in 0.032394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_trashcan_001.prefab
+  artifactKey: Guid(96c186cabf0e2f94ba02d320a5b7acea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_trashcan_001.prefab using Guid(96c186cabf0e2f94ba02d320a5b7acea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: 'fe16318c11b30882a331ffb860387267') in 0.054581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Menu/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+  artifactKey: Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab using Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795956f6c6c4d066aae74c9d294ad83b') in 0.074039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Menu/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+  artifactKey: Guid(a6e39ced0ea046bcb636c3f0b2e2a745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab using Guid(a6e39ced0ea046bcb636c3f0b2e2a745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857d00b92706dd12525e05ee0d147f27') in 0.034377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_torch_002_AmbienceFX.prefab
+  artifactKey: Guid(e9e2e298b79622140b4b0ef76ef5463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_torch_002_AmbienceFX.prefab using Guid(e9e2e298b79622140b4b0ef76ef5463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: 'f80e440172ca44039e3de8fd49a0bb4a') in 0.076061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_torch_002.prefab
+  artifactKey: Guid(a7bfcc842cc1fca4d8fd3b4916784eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Prefabs/SM_torch_002.prefab using Guid(a7bfcc842cc1fca4d8fd3b4916784eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: 'eca3aa19f29c0b936e0747dec6d469e6') in 0.032123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.689353 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Models/01_DiningHall_01_Cup#2.fbx
+  artifactKey: Guid(9f4bf87c7fe9f40498710243b709e356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Models/01_DiningHall_01_Cup#2.fbx using Guid(9f4bf87c7fe9f40498710243b709e356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8b9f39634b86f6ebbedbf300c82cef') in 0.045847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Models/02_Kitchen_01_Chopper.fbx
+  artifactKey: Guid(21676d294d655b5478ce76c58d15f06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CatBorg Studio/3D Dungeon Lowpoly Pack/Models/02_Kitchen_01_Chopper.fbx using Guid(21676d294d655b5478ce76c58d15f06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521464b1d43238e24c6097080e585b88') in 0.035580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.666833 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Models/SM_campfire_003.fbx
+  artifactKey: Guid(38dc3b2e079656446a51ea54f4de51b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Models/SM_campfire_003.fbx using Guid(38dc3b2e079656446a51ea54f4de51b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '70d0fbccad549728904179054d9f6b23') in 0.073570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.581732 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Models/SM_irontorch_003.fbx
+  artifactKey: Guid(4ace2cb9344d8ac4d92e9e0a3e189e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Models/SM_irontorch_003.fbx using Guid(4ace2cb9344d8ac4d92e9e0a3e189e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '4c84cb647af1629c929ce52c4b1250c5') in 0.134929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Piloto Studio/Campfire And Torches Pack/Models/SM_torch_002.fbx
+  artifactKey: Guid(28c4751ae6a332a438b94e30eaa1ecb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Piloto Studio/Campfire And Torches Pack/Models/SM_torch_002.fbx using Guid(28c4751ae6a332a438b94e30eaa1ecb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+Shader error in 'Piloto Studio/Toony Prop': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 633
+
+Compiling Subshader: 0, Pass: ShadowCaster, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_FULL_STANDARD_SHADER UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _BLENDMODE_ADD _BLENDMODE_ALPHA _BLENDMODE_PRE_MULTIPLY _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+ -> (artifact id: '95c76f8fc548130e9fc4d7cff6508166') in 0.017756 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004380 seconds.
+Registered in 0.031609 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000022543F06E50 doesn't match image D:\Bear-to-beers\Bear to beers\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+Symbol file data-000001ECBF4BB010 doesn't match image D:\Bear-to-beers\Bear to beers\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-=======
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004412 seconds.
-Begin MonoManager ReloadAssembly
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
 Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Bear-to-beers\Bear to beers\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.84 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.703 seconds
+- Completed reload, in  1.634 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1704ms)
-		BeginReloadAssembly (172ms)
-=======
-Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.263 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1264ms)
-		BeginReloadAssembly (148ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+	ReloadAssembly (1635ms)
+		BeginReloadAssembly (190ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-<<<<<<< HEAD
-			CreateAndSetChildDomain (40ms)
-		EndReloadAssembly (1332ms)
-			LoadAssemblies (132ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1286ms)
+			LoadAssemblies (121ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (428ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (74ms)
-			SetupLoadedEditorAssemblies (635ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (32ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (130ms)
-				ProcessInitializeOnLoadAttributes (407ms)
-				ProcessInitializeOnLoadMethodAttributes (52ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.82 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4392.
-Memory consumption went from 177.9 MB to 176.7 MB.
-Total: 4.005900 ms (FindLiveObjects: 0.472000 ms CreateObjectMapping: 0.159000 ms MarkObjects: 3.147300 ms  DeleteObjects: 0.226100 ms)
-=======
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (1001ms)
-			LoadAssemblies (105ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (288ms)
+			SetupTypeCache (437ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (506ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (595ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (28ms)
+				InitializePlatformSupportModulesInManaged (33ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (86ms)
-				ProcessInitializeOnLoadAttributes (337ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
-				AfterProcessingInitializeOnLoad (14ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (409ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
+				AfterProcessingInitializeOnLoad (9ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.26 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.28 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3840 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.2 MB). Loaded Objects now: 4451.
-Memory consumption went from 176.4 MB to 175.2 MB.
-Total: 4.960500 ms (FindLiveObjects: 1.085100 ms CreateObjectMapping: 0.309800 ms MarkObjects: 3.321800 ms  DeleteObjects: 0.242300 ms)
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
+Unloading 3842 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 34 unused Assets / (1.6 MB). Loaded Objects now: 4387.
+Memory consumption went from 178.2 MB to 176.6 MB.
+Total: 3.944400 ms (FindLiveObjects: 0.430800 ms CreateObjectMapping: 0.122300 ms MarkObjects: 2.939600 ms  DeleteObjects: 0.450200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1460,10 +731,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-<<<<<<< HEAD
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
-=======
->>>>>>> 4408825a8c30ff2ae5b0ff3f86f53230b5c32cb5
